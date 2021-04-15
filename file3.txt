@@ -1,2 +1,3 @@
  this is my 3rd file
 next file added to file3.txt
+next file added to file3.txt
